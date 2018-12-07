@@ -30,7 +30,54 @@ class GetRegNo(Context):
 		self.lifespan = 1
 		self.name = 'GetRegNo'
 		self.active = True
+class Book_Title(Context):
 
+	def __init__(self):
+		print('Hi')
+		self.lifespan = 1
+		self.name = 'Book_Title'
+		self.active = True
+class Book_Author(Context):
+
+	def __init__(self):
+		print('Hi')
+		self.lifespan = 1
+		self.name = 'Book_Author'
+		self.active = True
+
+class Book_RestType(Context):
+
+	def __init__(self):
+		print('Hi')
+		self.lifespan = 1
+		self.name = 'Book_RestType'
+		self.active = True
+
+class Book_RestLoc(Context):
+
+	def __init__(self):
+		print('Hi')
+		self.lifespan = 1
+		self.name = 'Book_RestLoc'
+		self.active = True
+
+class Book_RestRange(Context):
+
+	def __init__(self):
+		print('Hi')
+		self.lifespan = 1
+		self.name = 'Book_RestRange'
+		self.active = True
+        
+
+class Clarity(Context):
+
+	def __init__(self):
+		print('Hi')
+		self.lifespan = 1
+		self.name = 'Clarity'
+		self.active = True
+        
 class IntentComplete(Context):
 
 	def __init__(self):
