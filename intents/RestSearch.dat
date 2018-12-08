@@ -1,5 +1,125 @@
 Search $restaurant
 Search
 Search $restaurant in $location
+search $range restaurant in $location
+search $type restaurant in $location
+search restaurant that is $type $range
+search restaurant that is $range $type
+search restaurant that has $type cuisine that is $range
+search restaurant that has $type food and is $range
+search restaurant that is in $range and has $type food
+search restaurant that has $type cuisine that is $range
 where is $restaurant in $location
-where in $location is $restaurant?
+where in $location is $restaurant
+italian cuisine
+south indian cuisine
+north indian cuisine
+mexican cuisine
+chinese cuisine
+continental cuisine
+$type cuisine
+italian food
+south indian food
+north indian food
+thali food
+mexican food
+chinese food
+continental food
+$type food
+food $type
+vegetarian restaurant
+$range priced
+priced $range
+price $range
+search $range restaurant in $location with $type
+search restaurant in $location with $type food that is expensive
+search restaurant in $location with $type food that is cheap
+search restaurant in $location with $type food that is medium priced
+search restaurant in $location with $type food that is reasonable
+search restaurant in $location with $type food that is $range
+search expensive restaurant in $location with $type food
+search moderate restaurant in $location with $type food
+search inexpensive restaurant in $location with $type food
+search reasonable restaurant in $location with $type food
+search places to eat in $location with $type food that is $range
+search eateries in $location with $type food that is $range
+search eateries in $location with $type food that is $range
+search $type $restaurant in $location that is $range priced
+i want to dine
+i want to have lunch
+i want to have dinner
+i want to have $type food for lunch
+i want to have $type food for dinner
+i want to have $type food for breakfast
+i want to look for a good restaurant with buffet lunch
+looking for a $type restaurant
+looking for vegetarian thali restaurant
+good restaurant to have vegetarian food
+good restaurant reasonably priced
+good restaurant $range priced
+want to go to restaurant with italian food reasonably priced
+looking for a restaurant with buffet spread reasonably priced
+looking for a restaurant with $type food $range price
+looking for a $range priced restaurant
+looking for a $type food restaurant
+looking for a restaurant in $location
+looking for a restaurant with $range price
+restaurant for lunch
+restaurant for buffet lunch
+restaurant for buffet dinner
+$type restaurant
+$range restaurant
+expensive restaurant
+cheap restaurant
+reasonable restaurant
+expensively priced restaurant
+cheaply priced restaurant
+moderately priced restaurant
+$range priced restaurant
+restaurant for having lunch
+for having lunch
+for having dinner
+for having buffet
+$range priced restaurant for having lunch in $location
+$range restaurant for having lunch in $location
+$type restaurant for having lunch in $location
+$type restaurant for having dinner in $location
+$type restaurant for having tea in $location
+i want to look for a $range restaurant
+i am looking for a $range restaurant
+restaurant in $location
+restaurant in south
+restaurant in north
+restaurant in center
+restaurant in bangalore
+restaurant in whitefield
+places to eat in $location
+good places to eat in $location
+eatery in $loccation
+$type places to eat in $location
+$type places to eat
+$range places to eat
+$range places to eat located at $location
+$type places to eat located in $location
+where can I eat $type food
+where can I eat $type food in $location
+where can I eat $type food in the area of $location
+where can I eat $type food priced $range in the area of $location
+where can I eat $range priced food in the area of $location
+$type restaurant in whitefield
+$type restaurant in $range range in $location
+$range restaurant with $type food in $location
+restaurant located in center
+centrally located restaurant
+restaurant in the $location of city with $cuisine priced reasonably
+restaurant in the $location of city with $cuisine priced moderately
+moderately priced restaurant in the $location of the city
+expensive restaurant in $location of the city that serves $type food
+moderate restaurant in $location of the city that serves $type food
+reasonable restaurant in $location of the city that serves $type food
+cheap restaurant in $location of the city that serves $type food
+$type restaurant in $location of the city that serves indian food
+$type restaurant in $location of the city that serves mexican food
+$type restaurant in $location of the city that serves chinese food
+$type restaurant in $location of the city that serves italian food
+$type restaurant in $location of the city that serves vegetarian food
