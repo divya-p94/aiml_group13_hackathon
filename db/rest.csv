@@ -1,58 +1,109 @@
-a2b restaurant,indian,low,north
-prashant restaurant,mexican,medium,south
+a2b restaurant,indian,low,south
+chilli spice,mexican,medium,south
 beijing bites,chinese,high,east 
 eat and meet,italian,low,west
 keys restaurant,continental,medium,north
-kfc,thai,high,south
-subway,arabian,low,east 
-akshara restaurant,japnese,medium,west
-black pearl,american,high,north
-paradise,british ,low,south
-sfc,french,medium,east 
-lemon tree,greek,high,west
-marriot hotel,carebian,low,north
-limelight,meditaranina,medium,south
-feast,spanish,high,east 
-the watering hole,turkish,low,west
-saffron,vietnamese,medium,north
-spice terrace,mexican,low,east 
-blue ginger,chinese,medium,west
-novotel,italian,high,north
-taj,continental,low,south
-"raddisson blue, low, north",thai,medium,east 
-shanghai,arabian,high,west
-residency,japnese,low,north
-the shangri-la,american,medium,south
-soul india,british ,high,east 
-tamarind,french,low,west
-cilantro,greek,medium,north
-sultans of spice,carebian,high,south
-seasons,meditaranina,low,east 
-leela palace,spanish,medium,west
-cubbon pavillion,turkish,high,north
-kebab mahal,vietnamese,low,south
-nandini palace,indian,medium,east 
-southend,mexican,high,west
-spice it,chinese,low,north
-banjara restaurant,italian,medium,south
-raj pavilion,continental,high,east 
-melting pot,thai,low,west
-sheraton,arabian,medium,north
-the terrace,japnese,high,south
-bengaluru multicuisine restaurant,american,low,east 
-the only place,british ,medium,west
-truffles,french,high,north
-treat restaurant,greek,low,south
-koshys restaurant,carebian,medium,east 
-shanti sagar,meditaranina,high,west
-humming tree,spanish,low,north
-hard rock cafe,turkish,medium,south
-grasshoper restaurant,vietnamese,high,east 
-social,indian,low,west
-imperial restaurant,mexican,medium,north
-the empire,chinese,high,south
-the emperor,italian,low,east 
-hallimane restaurant,continental,medium,west
-hoot,thai,high,north
-macd,arabian,low,south
-MacDonald,japnese,medium,east 
+kfc,american,high,south
+subway,american,low,east 
+superway,american,high,west
+midway,american,medium,west
+akshara restaurant,japanese,medium,north
+black pearl,american,high,south
+paradise,british ,low,east 
+sfc,french,medium,west
+lemon tree,greek,high,north
+marriot hotel,carebian,low,south
+limelight,mediterranean,medium,centre
+feast,spanish,high,west
+the watering hole,turkish,low,north
+saffron,vietnamese,medium,south
+24 by 7,indian,low,east 
+spice terrace,mexican,low,west
+blue ginger,chinese,medium,north
+novotel,italian,high,south
+taj,continental,low,east 
+raddisson blue,thai,medium,west
+shanghai,chinese,high,north
+residency,japanese,low,south
+the shangri-la,chinese,medium,east 
+soul india,indian,high,west
+tamarind,french,low,north
+cilantro,greek,medium,south
+sultans of spice,carebian,high,east 
+seasons,mediterranean,low,west
+leela palace,spanish,medium,north
+cubbon pavillion,turkish,high,south
+kebab mahal,vietnamese,low,east 
+nandini palace,indian,medium,west
+southend,mexican,high,north
+spice it,chinese,low,south
+pizza hut,italian,medium,east 
+raj pavilion,continental,high,west
+melting pot,thai,low,north
+sheraton,arabian,medium,south
+the terrace,japanese,high,east 
+bengaluru multicuisine restaurant,indian,low,west
+the only place,british ,medium,north
+truffles,french,high,south
+treat restaurant,greek,low,east 
+koshys restaurant,carebian,medium,west
+shanti sagar,mediterranean,high,north
+humming tree,spanish,low,south
+hard rock cafe,turkish,medium,east 
+grasshoper restaurant,vietnamese,high,west
+social,indian,low,north
+imperial restaurant,mexican,medium,south
+the empire,chinese,high,east 
+the emperor,italian,low,west
+hallimane restaurant,indian,medium,north
+hoot,thai,high,south
+macd,arabian,low,east 
+barbecque nation,japanese,medium,west
+starbucks,american,high,north
+zaitoon,arabian,low,south
+inchara,french,medium,east 
+parkview,greek,high,west
+aditya ,carebian,low,north
+shanmukha,mediterranean,medium,south
+tiffannys,spanish,high,east 
+hummus,turkish,low,west
+oye amritsar,indian,medium,north
+cafe coffee day,indian,high,south
+tacos,mexican,low,east 
+krishna sagar,chinese,medium,west
+ksheer sagar,indian,medium,north
+rolls of heaven,continental,low,south
+dialogues,thai,medium,east 
+nisarga,arabian,high,west
+sree krishna,japanese,low,north
+chung wah,chinese,medium,south
+spice code,british ,high,east 
+polar bear,french,low,west
+nile garden,greek,medium,north
+hawa chugu,japanese,high,north
+sushi,japanese,medium,south
+aromas,carebian,high,south
+california burrito,mediterranean,low,east 
+taco bell,spanish,medium,west
+the irish house,british ,high,north
+hard rock,vietnamese,low,south
+little italy,italian,medium,east 
+float,mexican,high,west
+dice and dine,chinese,low,north
+blue frog,italian,medium,south
+oogway express,continental,high,east 
+zhangs restaurant,thai,low,west
+china pearl,arabian,medium,north
+mainland china,japanese,high,south
+momoz,chinese,low,east 
+pancakes,british ,medium,west
+china bowl,french,high,north
+flavours of Greece,greek,low,south
+rolls and bowls,carebian,medium,east 
+yuan restaurant,mediterranean,high,west
+Spain and wine,spanish,low,centre
+kebab rolls,arabian,medium,north
+kebab magic,arabian,high,north
+Cakes and Bakes,british ,high,east 
+crepe garden,french,medium,centre
+upahar darshini,indian,low,centre
